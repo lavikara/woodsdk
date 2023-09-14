@@ -1,0 +1,19 @@
+{
+  "name": "@lavikara/woodcore",
+  "version": "0.0.20",
+  "description": "Woodcore sdk",
+  "main": "lib/es5/index.js",
+  "module": "lib/es6/index.js",
+  "sideEffect": false,
+  "repository": "",
+  "author": "lavikara <karatemitayo@gmail.com>",
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "woodcore",
+    "payment",
+    "javascript"
+  ],
+  "license": "MIT"
+}
